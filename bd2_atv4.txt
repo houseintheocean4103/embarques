@@ -21,4 +21,5 @@ embarques = {codp:number, codf:number, quantidade:number
 02 011 45
 06 08 54
 04 09 36
+01 012 32
 }
