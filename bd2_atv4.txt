@@ -1,0 +1,24 @@
+
+pecas = {codp:number, nomep:string, peso:number, cor:string
+01 'martelo' 3 'cinza'
+02 'tecido' 1 'roxo'
+03 'vassoura' 2 'bege'
+04 'lapis' 1 'amarelo'
+05 'caneta' 1 'azul'
+06 'mesa' 5 'verde'
+}
+
+fornecedores = {codf:number, nomef:string, cidade:string
+07 'matheus' 'ananindeua'
+08 'vellon' 'belem'
+09 'tilibra' 'sao paulo'
+010 'hileia' 'marituba'
+011 'danone' 'sao jose dos campos'
+012 'flamboyant' 'gramado'
+}
+
+embarques = {codp:number, codf:number, quantidade:number
+02 011 45
+06 08 54
+04 09 36
+}
